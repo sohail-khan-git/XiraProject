@@ -26,7 +26,7 @@ body {
 
      .logo {
          margin-left: 50px;
-         width: 120px;
+         width: 140px;
          height: 80px;
          background: #2d5016;
         margin-top: 10px;
@@ -35,7 +35,7 @@ body {
          align-items: center;
          justify-content: center;
          color: white;
-         font-size: 50px;
+         font-size: 40px;
          font-weight: bold;
      }
 
@@ -503,11 +503,13 @@ body {
          
          height: 40px;
          width: 160px;
-         font-weight: 600;
          background-color: #2d5016;
          color: white;
+         font-family: 'jost',sans-serif;
+         font-weight: 400
 
      }
+     
      .icn{
             margin-left: 220px;
             height: 30px;
@@ -1152,7 +1154,6 @@ h3{
     color: white;
     padding: 12px 25px;
     border: none;
-    border-radius: 5px;
     font-size: 13px;
     font-weight: 600;
     cursor: pointer;
